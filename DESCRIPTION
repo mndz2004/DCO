@@ -1,0 +1,12 @@
+Package: DCruzado
+Type: Package
+Title: Croosover Desing 
+Version: 0.1.0
+Author: Maria Altagracia Mendez Prez 
+Maintainer: The package maintainer <marype1232@gmail.com>
+Description: Obtiene la Tabla de Analisis (ADEVA) para un Diseño Cross-over/Comuntativo o Cruzado.
+References: Díaz, A. (2009). Diseño estadístico de experimentos 2a Ed. Universidad de Antioquia.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
